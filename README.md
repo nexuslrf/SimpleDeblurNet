@@ -25,10 +25,9 @@ A brief visual comparison among different neural deblurring models:
 
 1. GoPro dataset:
 
-| PSNR  | WSNR  | SSIM | MSSSIM | IFC  | NQM   | UIQI | VIF  | BLIINDS2 | BRISQUE | CORNIA | DIIVINE | NIQE  | SSE   |
-| ----- | ----- | ---- | ------ | ---- | ----- | ---- | ---- | ------ | -------- | ------- | ------ | ------- | ----- | ----- |
-| 23.30 | 23.55 | 0.86 | 0.93   | 2.59 | 19.84 | 0.70 | 0.79 | 39.73    | 114.74  | 122.84 | 43.28   | 20.08 | 44.96 |
-
+| PSNR  | WSNR  | SSIM | MSSSIM | IFC  | NQM   | UIQI | VIF  | BLIINDS2| BRISQUE | CORNIA | DIIVINE| NIQE  | SSE   |  
+| ----- | ----- | ---- | ------ | ---- | ----- | ---- | ---- | ------  | --------| -------| ------ | ------| ----- | 
+| 23.30 | 23.55 | 0.86 | 0.93   | 2.59 | 19.84 | 0.70 | 0.79 | 39.73   | 114.74  | 122.84 | 43.28  | 20.08 | 44.96 |
 2. Lai et al's:
 
 | metrics | real    | uniform | non-uniform |
